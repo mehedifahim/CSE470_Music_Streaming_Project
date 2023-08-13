@@ -1,0 +1,1 @@
+<span class='noResults'>You need to be <a href="register.php">logged in</a>.....</span>
