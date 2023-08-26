@@ -77,7 +77,6 @@ CREATE TABLE `genres` (
 INSERT INTO `genres` (`id`, `name`) VALUES
 (1, 'Rock'),
 (2, 'Pop'),
-
 (3, 'Metal');
 
 
