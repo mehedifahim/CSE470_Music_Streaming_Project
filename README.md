@@ -1,1 +1,3 @@
-# A php and mysql based music streaming project
+# A PHP and MySQL music streaming project
+
+
